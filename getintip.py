@@ -1,7 +1,7 @@
 import re
 import sys
 
-# this code just prints out the interface IP prefixes from CGX ION interfaces.
+# this code just prints out the interface IP prefixes from a CGX site yaml file
 
 if __name__ == "__main__":
     # grab parameters
